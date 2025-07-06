@@ -1,0 +1,4 @@
+name: trademony
+version: 1.0.0
+flutter:
+  uses-material-design: true

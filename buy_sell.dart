@@ -1,0 +1,1 @@
+// Buy/Sell logic for Forex/Crypto
